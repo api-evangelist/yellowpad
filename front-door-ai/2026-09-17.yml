@@ -1,0 +1,29 @@
+# Front Door AI Index — yellowpad — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: yellowpad
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: yellowpad.ai
+  final_host: www.yellowpad.ai
+  ownership: own
+  owner: yellowpad
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 11
+  host_score: 11
+  density: 10.76
+  words: 1022
+  tiers:
+    agentic: 3
+    core: 8
+    model: 0
+  ambiguous: 1
+  top_terms:
+    AI: 6
+    LLMs: 2
+    copilot: 2
+    agent: 1
+    prompts: 1
